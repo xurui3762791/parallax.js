@@ -282,6 +282,3 @@ section[data-id="4"] {
 
 ---
 
-## License
-
-Parallax.js is released under the [the MIT license](opensource.org/licenses/mit-license.php).
